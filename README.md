@@ -10,4 +10,8 @@ The marketing team wants to launch another campaign, and they want to learn from
 
 ## Dataset used for analysis :
 
-https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+[Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+
+## Link to jupyter notebook :
+
+[Notebook](https://github.com/ayush246/Portuguese_Bank_data_analysis/blob/master/Portuguese_Bank.ipynb)
